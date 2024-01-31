@@ -9,7 +9,7 @@ assert cap.isOpened(), "Error reading video file"
 w, h, fps = (int(cap.get(x)) for x in (cv2.CAP_PROP_FRAME_WIDTH, cv2.CAP_PROP_FRAME_HEIGHT, cv2.CAP_PROP_FPS))
 
 line_points = [(250, 0), (250, 800)]  # vertical line points
-classes_to_count = [0]  # person and car classes for count
+classes_to_count = [0]  # person
 
 # Video writer
 video_writer = cv2.VideoWriter("obj_count.avi",
