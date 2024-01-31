@@ -5,8 +5,8 @@ This repository demonstrates object counting using YOLOv8 and Ultralytics.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/asimthaha/Yolo_v8_models.git
+cd Yolo_v8_models
 ```
 ## Creating and activating a virtual environment (optional)
 ```
