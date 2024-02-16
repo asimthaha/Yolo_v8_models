@@ -2,7 +2,7 @@ from ultralytics import YOLO
 from ultralytics.solutions import object_counter
 import cv2
 
-model = YOLO("yolov8n.pt")
+model = YOLO("./models/yolov8n.pt")
 video_path="./background-1020.mp4"
 cap = cv2.VideoCapture(0)
 assert cap.isOpened(), "Error reading video file"
