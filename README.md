@@ -106,3 +106,4 @@ https://github.com/asimthaha/Yolo_v8_models/assets/88647020/5c3cc79d-f2ac-4f1a-b
 + https://github.com/mikel-brostrom/yolo_tracking.git
 + https://github.com/djidje/deep-person-reid-1.git
 + https://github.com/KaiyangZhou/deep-person-reid.git
++ https://kaiyangzhou.github.io/deep-person-reid/user_guide.html
