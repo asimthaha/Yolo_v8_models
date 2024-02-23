@@ -92,7 +92,10 @@ This script uses YOLOv8 for object detection and DeepSORT for object counting. T
 The script generates an output video with object tracking and reidentification annotations. Though the model does not provide an accurate solution on black and white videos (that i used) it works well on live camera streams.
 Feel free to customize the parameters and experiment with different videos.
 
+### Input
+https://github.com/asimthaha/Yolo_v8_models/assets/88647020/f20e7bf0-4df3-4fa9-93f1-d11eb82e897a
 
+### Output
 https://github.com/asimthaha/Yolo_v8_models/assets/88647020/5c3cc79d-f2ac-4f1a-b876-31bda5c97f80
 
 
